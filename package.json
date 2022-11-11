@@ -1,0 +1,11 @@
+{
+  "name": "com.redpenguin.windowsservice",
+  "version": "1.0.0",
+  "displayName": "Windows Service",
+  "description": "Simple window service",
+  "unity": "2021.1",
+  "author": {
+    "name": "Redpenguin",
+    "email": "blindgoliath@gmail.com"
+  }
+}
