@@ -290,7 +290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3612767989485601399}
   - component: {fileID: 554959232701197193}
-  - component: {fileID: 4459898297128721573}
+  - component: {fileID: 8913282709735136295}
   m_Layer: 5
   m_Name: ExampleWindow2
   m_TagString: Untagged
@@ -331,7 +331,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &4459898297128721573
+--- !u!114 &8913282709735136295
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -340,7 +340,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3612767989485601398}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d00f0ae59f5444ff8746aff251679c61, type: 3}
+  m_Script: {fileID: 11500000, guid: 82a55420337ee504db789174457c8908, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _animationId: 1
@@ -428,4 +428,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ExampleWindow1
+  m_Text: ExampleWindow2

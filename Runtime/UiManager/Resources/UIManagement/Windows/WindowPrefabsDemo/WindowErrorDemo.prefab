@@ -371,7 +371,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2487881811343860790}
   - component: {fileID: 1663524192555175368}
-  - component: {fileID: 214910055863187230}
+  - component: {fileID: 3183188327629867695}
   m_Layer: 5
   m_Name: WindowErrorDemo
   m_TagString: Untagged
@@ -413,7 +413,7 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &214910055863187230
+--- !u!114 &3183188327629867695
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2487881811343860791}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d526bd0498b448da7cd132100bfd99c, type: 3}
+  m_Script: {fileID: 11500000, guid: cc207ebdab0f44a4c9a798bde8cd2413, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _animationId: 1
